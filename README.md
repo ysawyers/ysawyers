@@ -12,11 +12,6 @@
 - Learning Golang, GraphQL/Apollo, and other technologies!
 - Continuing with CS50 along with the new school year
 
-#### Things I am challenging myself with :muscle:
-- Making sure each day is more productive than the last
-- Waking up before 8 am every morning
-- Staying active and getting out when I have free time
-
 #### Github Stats ⭐
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigBellyBigDreams&layout=compact)](https://github.com/BigBellyBigDreams/github-readme-stats)
